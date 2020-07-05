@@ -1,0 +1,6 @@
+[HKEY_CLASSES_ROOT\Directory\shell\01MenuCmd]
+"MUIVerb"="Command Prompts"
+"Icon"="cmd.exe"
+"ExtendedSubCommandsKey"="Directory\\ContextMenus\\MenuCmd"
+"Extended"=""
+"ShowBasedOnVelocityId"=dword:00639bc8
